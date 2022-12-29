@@ -1,0 +1,14 @@
+C:\Users\Григорий\Desktop\Шарага\Glasnie\Glasnie\bin\Debug\Glasnie.exe.config
+C:\Users\Григорий\Desktop\Шарага\Glasnie\Glasnie\bin\Debug\Glasnie.exe
+C:\Users\Григорий\Desktop\Шарага\Glasnie\Glasnie\bin\Debug\Glasnie.pdb
+C:\Users\Григорий\Desktop\Шарага\Glasnie\Glasnie\obj\Debug\Glasnie.csproj.AssemblyReference.cache
+C:\Users\Григорий\Desktop\Шарага\Glasnie\Glasnie\obj\Debug\Glasnie.csproj.CoreCompileInputs.cache
+C:\Users\Григорий\Desktop\Шарага\Glasnie\Glasnie\obj\Debug\Glasnie.exe
+C:\Users\Григорий\Desktop\Шарага\Glasnie\Glasnie\obj\Debug\Glasnie.pdb
+C:\Users\Григорий\Desktop\Git\Glasnie\Glasnie\bin\Debug\Glasnie.exe.config
+C:\Users\Григорий\Desktop\Git\Glasnie\Glasnie\bin\Debug\Glasnie.exe
+C:\Users\Григорий\Desktop\Git\Glasnie\Glasnie\bin\Debug\Glasnie.pdb
+C:\Users\Григорий\Desktop\Git\Glasnie\Glasnie\obj\Debug\Glasnie.csproj.AssemblyReference.cache
+C:\Users\Григорий\Desktop\Git\Glasnie\Glasnie\obj\Debug\Glasnie.csproj.CoreCompileInputs.cache
+C:\Users\Григорий\Desktop\Git\Glasnie\Glasnie\obj\Debug\Glasnie.exe
+C:\Users\Григорий\Desktop\Git\Glasnie\Glasnie\obj\Debug\Glasnie.pdb
